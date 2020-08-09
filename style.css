@@ -1,0 +1,10 @@
+h1, p {
+  font-family: Lato;
+}
+li{
+  text-decoration: none;
+  display: inline;
+}
+.selected{
+  color:#FFD700;
+}
